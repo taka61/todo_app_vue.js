@@ -1,0 +1,21 @@
+.container {
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    padding-top: 40px;
+    color: brown;
+}
+
+.button {
+    margin-right: 20px;
+}
+
+.checkbox{
+    margin-right: 5px;
+}
+
+#app li> span.done {
+    text-decoration: line-through;
+}
